@@ -1,0 +1,27 @@
+{
+  "name": "tensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "train": "babel-node ./train-story-point-engine.js",
+    "predict": "babel-node ./story-point-engine.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "@tensorflow/tfjs": "^0.14.2",
+    "@tensorflow/tfjs-node": "^0.2.3",
+    "ascii-histogram": "^1.2.1",
+    "clipboardy": "^1.2.3",
+    "csvtojson": "^2.0.8",
+    "lodash.uniq": "^4.5.0",
+    "standardjs": "^1.0.0-alpha"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/node": "^7.5.0"
+  }
+}
