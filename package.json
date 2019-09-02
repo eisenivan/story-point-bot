@@ -7,8 +7,8 @@
     "train": "babel-node ./train-story-point-engine.js",
     "predict": "babel-node ./story-point-engine.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "@ivaneisenberg",
+  "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
