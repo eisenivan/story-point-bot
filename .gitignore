@@ -5,3 +5,5 @@ model/weights.bin
 model/model.json
 model/key.json
 predict.log
+
+.npmrc

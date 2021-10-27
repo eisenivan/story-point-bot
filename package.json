@@ -17,11 +17,11 @@
     "ascii-histogram": "^1.2.1",
     "clipboardy": "^1.2.3",
     "csvtojson": "^2.0.8",
-    "lodash.uniq": "^4.5.0",
-    "standardjs": "^1.0.0-alpha"
+    "lodash.uniq": "^4.5.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.5.0",
-    "@babel/node": "^7.5.0"
+    "@babel/cli": "^7.15.7",
+    "@babel/node": "^7.5.0",
+    "standard": "^16.0.4"
   }
 }
